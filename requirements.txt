@@ -4,3 +4,6 @@ requests
 Pillow
 pytesseract
 google-generativeai
+tiktoken
+emoji
+duckduckgo_search
